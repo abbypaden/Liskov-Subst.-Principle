@@ -1,9 +1,5 @@
 package liskovsubstitutionprinciple;
 
-/**
- *
- * @author abbyp
- */
 public class EnglishTeacher extends SchoolStaff implements CourseInstructor {
 
     @Override

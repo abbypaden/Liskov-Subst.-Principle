@@ -1,8 +1,5 @@
 package liskovsubstitutionprinciple;
-/**
- *
- * @author abbyp
- */
+
 public class SchoolStaff {
     
     private String name;
