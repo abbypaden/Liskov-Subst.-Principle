@@ -3,11 +3,10 @@ package liskovsubstitutionprinciple;
  *
  * @author abbyp
  */
-public abstract class Teacher {
+public class SchoolStaff {
     
     private String name;
     
-    public abstract void teach();
     
     private void makeAnnouncements(){
         System.out.println("made accouncements...");
